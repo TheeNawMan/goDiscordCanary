@@ -1,3 +1,3 @@
-module github.com/theenawman/godiscordcanary
+module github.com/theenawman/goDiscordCanary
 
 go 1.20
