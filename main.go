@@ -18,7 +18,7 @@ func host() string {
     return hostname
 }
 
-func GetIP() string { // Get preferred outbound ip of this machine
+func GetIP() string {
     req, err := http.Get("https://ipinfo.io")
     if err != nil {
         log.Fatal(err)

@@ -13,9 +13,9 @@ This was designed for bug bounties to prove code execution in an enviornment. It
 I have tested this on all three platforms using arm. More testing will come in the future.
 
 # Features
-[X] Grabs public IP
-[X] Grabs hostname
-[ ] Universal Screenshot utility
-[ ] Internal IP
-[ ] Make url be taken as a .env or arqument for CTF usage
-[ ] IF NEEDED: Lets make sure AV doesn't trigger by adding some hops in the code.
+- [X] Grabs public IP
+- [X] Grabs hostname
+- [ ] Universal Screenshot utility
+- [ ] Internal IP
+- [ ] Make url be taken as a .env or arqument for CTF usage
+- [ ] IF NEEDED: Lets make sure AV doesn't trigger by adding some hops in the code.
